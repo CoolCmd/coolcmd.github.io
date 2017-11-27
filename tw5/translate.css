@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body
+{
+	max-width: 70em;
+	margin: 0 auto;
+	text-align: justify;
+}
+img
+{
+	max-width: 100%;
+	margin-top: .5em;
+	border: 1px solid #198AEA;
+	outline: 2px solid rgba(0, 0, 0, .05);
+}
+/* www.transifex.com .custom-html-markup span.tag */
+samp
+{
+	margin: 0 2px;
+	border: 1px solid #D8D8D8;
+	border-radius: 2px;
+	padding: 0 .2em;
+	color: #666;
+	background-color: #E9E9E9;
+}
