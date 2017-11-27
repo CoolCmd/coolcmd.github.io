@@ -1,0 +1,115 @@
+@charset "UTF-8";
+html {
+	height: 100%;
+	background: url("/img/background/leafybush.jpg") #e8e8e8;
+}
+body {
+	min-height: 100%;
+	max-width: 95em;
+	margin: 0 auto;
+	overflow-y: scroll; /* body смещается при показе/скрытии вертикальной полосы прокрутки */
+	font: .815em/1.31 Verdana, Geneva, sans-serif;
+	color: #000;
+	background: #fff;
+	box-shadow: #c0c0c0 0 0 1em;
+}
+.содержимое {
+	display: inline-block;
+	padding: 0 1.5em 1.5em;
+}
+ol {
+	padding-left: 2em;
+}
+li {
+	margin: .2em 0;
+}
+.обычный {
+	list-style-type: disc; /* Плевать на вложенность списков */
+}
+ul:not(.обычный) {
+	list-style-type: none;
+	padding-left: 0;
+}
+ul:not(.обычный):not(.без-маркера) > li {
+	padding-left: 1em;
+	background: -webkit-linear-gradient(#ccc, #ccc) left top .15em / .3em 1em no-repeat;
+	background:         linear-gradient(#ccc, #ccc) left top .15em / .3em 1em no-repeat;
+}
+nav > ul:not(.обычный):not(.без-маркера) > li {
+	background-image: -webkit-linear-gradient(#ff6a00, #ff6a00);
+	background-image:         linear-gradient(#ff6a00, #ff6a00);
+}
+/* Ссылка на активную секцию */
+a[data-href] {
+	color: #666;
+}
+h4 {
+	margin: 1.5em 0;
+	padding: .3em 1em;
+	background: rgb(187, 222, 255); /* Замена градиента */
+	background: -webkit-linear-gradient(left,     rgba(187, 222, 255, 1), rgba(187, 222, 255, .2));
+	background:         linear-gradient(to right, rgba(187, 222, 255, 1), rgba(187, 222, 255, .2));
+}
+h5 {
+	margin: 0 0 -1em;
+}
+/* Названия кнопок и менюшек, которые нужно нажать */
+samp {
+	font-family: inherit;
+	font-style: italic;
+}
+/* Текст, который нужно набрать на клаве */
+kbd {
+	padding: 0 .3em;
+	border: 1px solid #e8e8e8;
+	background: #f2f2f2;
+}
+mark {
+	display: block;
+	margin: .5em .2em;
+	padding: .5em 1em;
+	box-shadow: 0 .08em .3em #eee;
+	background: #ffff8c;
+	overflow: hidden; /* Фон блока не наезжает на плавающий плакат */
+}
+.символ {
+	font: bold 1.1em/1 Verdana, Calibri, Tahoma, Geneva, sans-serif;
+}
+*[tabindex="-1"]:focus {
+	outline: none;
+}
+/* Скрыть с анимацией. Во время загрузки страницы анимации не будет. */
+section {
+	overflow: hidden;
+	opacity: 0;
+	visibility: hidden;
+	max-height: 0;
+	-webkit-transition: opacity ease-in .15s, visibility 0s .15s, max-height 0s .15s;
+	-moz-transition: opacity ease-in .15s, visibility 0s .15s, max-height 0s .15s;
+	-o-transition: opacity ease-in .15s, visibility 0s .15s, max-height 0s .15s;
+	transition: opacity ease-in .15s, visibility 0s .15s, max-height 0s .15s;
+}
+/* Показать без анимации */
+section.показать {
+	opacity: 1;
+	visibility: visible;
+	max-height: 100500em;
+	-webkit-transition: none;
+	-moz-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+/* Показать с анимацией */
+section.показать.с-анимацией {
+	-webkit-transition: opacity ease-out .3s .15s, visibility 0s .15s, max-height 0s .15s;
+	-moz-transition: opacity ease-out .3s .15s, visibility 0s .15s, max-height 0s .15s;
+	-o-transition: opacity ease-out .3s .15s, visibility 0s .15s, max-height 0s .15s;
+	transition: opacity ease-out .3s .15s, visibility 0s .15s, max-height 0s .15s;
+}
+@media screen and (min-width: 985px) {
+	section[id^="установка-в-"]::before {
+		content: url("/img/for/%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82.jpg");
+		float: right;
+		margin: 4.5em -1em 1em 2em;
+	}
+}
