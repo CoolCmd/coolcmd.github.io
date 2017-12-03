@@ -37,6 +37,7 @@ window.г_мПожертвования =
 	["2017-11-07", 84.6, "RUB", "Eremite B"            , "PayPal"                   , ""],
 	["2017-11-11",    1, "EUR", "Jeroen Mennen"        , "PayPal"                   , "https://www.youtube.com/watch?v=M7b80Eb0hR‍k"],
 	["2017-11-12",    2, "USD", "Nathaniel Tan"        , "PayPal"                   , ""],
+	["2017-12-01",    5, "CHF", "Jan Zimmermann"       , "PayPal"                   , "thanks for making this great extension. it's not a lot. hope it helps :)"],
 ];
 
 window.г_оВалюта =
@@ -44,5 +45,6 @@ window.г_оВалюта =
 	RUB: 'р.',
 	USD: '$',
 	EUR: '€',
-	BRL: 'R$'
+	BRL: 'R$',
+	CHF: 'Fr.'
 };
