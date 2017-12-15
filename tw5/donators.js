@@ -38,6 +38,7 @@ window.г_мПожертвования =
 	["2017-11-11",    1, "EUR", "Jeroen Mennen"        , "PayPal"                   , "https://www.youtube.com/watch?v=M7b80Eb0hR‍k"],
 	["2017-11-12",    2, "USD", "Nathaniel Tan"        , "PayPal"                   , ""],
 	["2017-12-01",    5, "CHF", "Jan Zimmermann"       , "PayPal"                   , "thanks for making this great extension. it's not a lot. hope it helps :)"],
+	["2017-12-13",  500, "RUB", ""                     , "Яндекс.Деньги"            , ""],
 ];
 
 window.г_оВалюта =
