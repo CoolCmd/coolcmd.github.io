@@ -40,6 +40,7 @@ window.г_мПожертвования =
 	["2017-12-01",    5, "CHF", "Jan Zimmermann"       , "PayPal"                   , "thanks for making this great extension. it's not a lot. hope it helps :)"],
 	["2017-12-13",  500, "RUB", ""                     , "Яндекс.Деньги"            , ""],
 	["2017-12-18",   10, "USD", "Fabrice Denis"        , "PayPal"                   , "Great addon. Thank you."],
+	["2017-12-20",  338, "JPY", "石橋 僚太"             , "PayPal"                   , "twitch5 donate"],
 ];
 
 window.г_оВалюта =
@@ -48,5 +49,6 @@ window.г_оВалюта =
 	USD: '$',
 	EUR: '€',
 	BRL: 'R$',
-	CHF: 'Fr.'
+	CHF: 'Fr.',
+	JPY: '¥'
 };
