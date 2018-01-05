@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="CoolCmd">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ошибка 404</title>
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		body {
+			font-size: 16px; /* Диаметр знака 390px */
+			background: black;
+		}
+		@media (max-width: 420px), (max-height: 420px) {
+			body {
+				font-size: 13px;  /* Если нет поддержки vmin. Диаметр знака 318px */
+				font-size: 3.8vm; /* IE 9 */
+				font-size: 3.8vmin;
+			}
+		}
+		@media (min-width: 640px) and (min-height: 640px) {
+			body {
+				font-size: 19px;  /* Если нет поддержки vmin */
+				font-size: 2.5vm; /* IE 9 */
+				font-size: 2.5vmin;
+			}
+		}
+		div {
+			position: absolute;
+			left: 0;
+			right: 0;
+			top: 0;
+			bottom: 0;
+			margin: auto;
+		}
+		body > div {
+			width: 23em;
+			height: 23em;
+			border: .7em solid white;
+			border-radius: 100%;
+			background: red;
+		}
+		div > div {
+			width: 80%;
+			height: 20%;
+			line-height: 4.5em;
+			text-align: center;
+			border-radius: .2em;
+			color: black;
+			background: white;
+		}
+	</style>
+</head>
+<body>
+	<div><div title="Да, совсем ничего!">По этому адресу ничего нет</div></div>
+</body>
+</html>
