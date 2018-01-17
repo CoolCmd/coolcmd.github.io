@@ -43,6 +43,7 @@ window.г_мПожертвования =
 	["2017-12-20",  338, "JPY", "石橋 僚太"             , "PayPal"                   , "twitch5 donate"],
 	["2017-12-23",   25, "USD", "Timothy Kimball"      , "PayPal"                   , ""],
 	["2018-01-08",   15, "CHF", "Urs Stettler"         , "PayPal"                   , ""],
+	["2018-01-09",  500, "RUB", "Ivan Ivanov"          , "PayPal"                   , "Good job."],
 ];
 
 window.г_оВалюта =
