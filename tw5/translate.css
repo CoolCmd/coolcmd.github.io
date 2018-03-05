@@ -12,13 +12,25 @@ img
 	border: 1px solid #198AEA;
 	outline: 2px solid rgba(0, 0, 0, .05);
 }
-/* www.transifex.com .custom-html-markup span.tag */
-samp
+.управляющийсимвол
 {
-	margin: 0 2px;
-	border: 1px solid #D8D8D8;
-	border-radius: 2px;
-	padding: 0 .2em;
-	color: #666;
-	background-color: #E9E9E9;
+	font: bold 1.4em/1.2 monospace;
+	margin: 0 .2em;
+	color: #84ccff;
+}
+.теготкрыть,
+.тегзакрыть
+{
+	margin: 0 .2em;
+	padding: .1em .7em;
+	color: #222;
+	background: rgba(133, 91, 213, .2);
+}
+.теготкрыть
+{
+	border-radius: 40% 0 0 40%;
+}
+.тегзакрыть
+{
+	border-radius: 0 40% 40% 0;
 }
