@@ -46,14 +46,8 @@ window.г_мПожертвования =
 	["2018-01-09",  500, "RUB", "Ivan Ivanov"          , "PayPal"                   , "Good job."],
 	["2018-01-23",    3, "GBP", "Adam Barnett"         , "PayPal"                   , ""],
 	["2018-03-04",  2.5, "USD", "shogo89"              , "WebMoney"                 , "horoshee"],
+	["2018-03-06",   50, "SEK", "Magnus Hellström"     , "PayPal"                   , "Thanks for your hard work, I'm really enjoying your \"alternate player\", It's a great extension."],
+	["2018-03-07",    5, "CAD", "David Ruck"           , "PayPal"                   , "Thanks for the extension. Hope to see some good things from it in the future."],
+	["2018-03-07",    5, "CHF", "Urs Stettler"         , "PayPal"                   , ""],
+	["2018-03-08",    3, "EUR", "Alexander Dmytriienko", "PayPal"                   , ""],
 ];
-
-window.г_оВалюта =
-{
-	RUB: 'р.',
-	USD: '$',
-	EUR: '€',
-	BRL: 'R$',
-	CHF: 'Fr.',
-	JPY: '¥'
-};
