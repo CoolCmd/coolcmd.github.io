@@ -51,5 +51,4 @@ window.г_мПожертвования =
 	["2018-03-07",    5, "CHF", "Urs Stettler"         , "PayPal"                   , ""],
 	["2018-03-08",    3, "EUR", "Alexander Dmytriienko", "PayPal"                   , ""],
 	["2018-03-13",    5, "EUR", "Justin Mages"         , "PayPal"                   , "Alternate Player for Twitch.tv is just that amazing"],
-	["2018-03-19",    3, "USD", "Arne Lenhart"         , "PayPal"                   , "thank you :) Keep it up !"],
 ];
