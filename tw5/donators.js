@@ -65,4 +65,5 @@ window.г_мПожертвования =
 	["2018-04-25",   50, "SEK", "Patrick Skogh"        , "PayPal"                   , "Thanks for a well made addon!"],
 	["2018-04-26",    3, "GBP", "Nathan Tran"          , "PayPal"                   , "Much needed QoL and visual features, thanks."],
 	["2018-05-19",   10, "USD", "Alekseb"              , "WebMoney"                 , "thanks for a great extension"],
+	["2018-05-28",  300, "RUB", "Fedor Stepanov"       , "PayPal"                   , "Спасибо за отличное расширение!"],
 ];
