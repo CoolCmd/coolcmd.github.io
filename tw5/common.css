@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 *
 {
 	margin: 0;
@@ -113,7 +113,8 @@ body
 	margin-top: 7%;
 	vertical-align: top; /* Многострочное описание */
 	text-decoration: none;
-	color: inherit;
+	text-shadow: 0 1px 2px #bbb;
+	color: #555;
 }
 .сетка2коротопис a + a
 {
@@ -130,9 +131,6 @@ body
 	margin-top: 4%;
 	font-size: 1.5em;
 	line-height: 1.2;
-	background: -webkit-radial-gradient(#ddd 10%, transparent);
-	background: -moz-radial-gradient(#ddd 10%, transparent);
-	background: radial-gradient(#ddd 10%, transparent); /* Цвет фона body */
 }
 .флаг
 {
