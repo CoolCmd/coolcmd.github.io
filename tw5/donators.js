@@ -67,4 +67,5 @@ window.г_мПожертвования =
 	["2018-05-19",   10, "USD", "Alekseb"              , "WebMoney"                 , "thanks for a great extension"],
 	["2018-05-28",  300, "RUB", "Fedor Stepanov"       , "PayPal"                   , "Спасибо за отличное расширение!"],
 	["2018-05-29",  219, "RUB", ""                     , "WebMoney"                 , ""],
+	["2018-06-11",    4, "GBP", "Todor Dobrev"         , "PayPal"                   , ""],
 ];
