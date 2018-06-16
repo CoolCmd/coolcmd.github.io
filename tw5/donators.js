@@ -70,4 +70,5 @@ window.г_мПожертвования =
 	["2018-06-11",    4, "GBP", "Todor Dobrev"         , "PayPal"                   , ""],
 	["2018-06-12", 1000, "RUB", "7947"                 , "Яндекс.Деньги"            , "Большое спасибо за отличное расширение! Родной плеер твича стал показывать рекламу, несмотря на адблок, а в этом плеере и рекламы нет, и сам работает гораздо лучше. Продолжай в том же духе!"],
 	["2018-06-13",    5, "GBP", "Josh Bartram"         , "PayPal"                   , "Excellent service, thankyou for providing and keeping it updated. If I can, I will donate monthly. Keep being awesome :)"],
+	["2018-06-16",   20, "NZD", "Anthony Neville"      , "PayPal"                   , "For the moment ad-blockers are failing to block twitch ads, so I use this extension. It does the job."],
 ];
