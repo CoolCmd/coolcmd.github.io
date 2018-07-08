@@ -73,4 +73,5 @@ window.г_мПожертвования =
 	["2018-06-16",   20, "NZD", "Anthony Neville"      , "PayPal"                   , "For the moment ad-blockers are failing to block twitch ads, so I use this extension. It does the job."],
 	["2018-06-16",  250, "RUB", "Коренев Никита"       , "PayPal"                   , ""],
 	["2018-06-24",   20, "USD", "Ryan Barrera"         , "PayPal"                   , ""],
+	["2018-07-08",   30, "PLN", "Artur Pniak"          , "PayPal"                   , ""],
 ];
