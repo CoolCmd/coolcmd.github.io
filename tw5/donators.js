@@ -80,4 +80,5 @@ window.г_мПожертвования =
 	["2018-08-21",  200, "RUB", ""                     , "Яндекс.Деньги"            , ""],
 	["2018-08-21",    5, "GBP", "Todor Dobrev"         , "PayPal"                   , ""],
 	["2018-08-22",    5, "GBP", "Maciej Koszanski"     , "PayPal"                   , ""],
+	["2018-08-22",    5, "USD", "Keith Calistro"       , "PayPal"                   , ""],
 ];
