@@ -34,7 +34,14 @@ function СоздатьДату(сДата)
 
 function ПеревестиДатуВСтроку(сДата)
 {
-	return (new Date(сДата)).toLocaleDateString();
+	try
+	{
+		return (new Date(сДата)).toLocaleDateString();
+	}
+	catch (_)
+	{
+		return сДата;
+	}
 }
 
 function ПеревестиВалютуВСтроку(чЗначение, сКодВалюты)
