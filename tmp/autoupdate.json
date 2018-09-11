@@ -1,0 +1,15 @@
+{
+	"addons":
+	{
+		"autoupdate@coolcmd":
+		{
+			"updates":
+			[
+				{
+					"version": "2",
+					"update_link": "https://coolcmd.tk/tmp/autoupdate.xpi"
+				}
+			]
+		}
+	}
+}
