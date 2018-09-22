@@ -83,4 +83,5 @@ window.г_мПожертвования =
 	["2018-08-22",    5, "USD", "Keith Calistro"       , "PayPal"                   , ""],
 	["2018-08-22",    3, "EUR", "Florian Gernart"      , "PayPal"                   , "This extension is amazing."],
 	["2018-09-01",    1, "USD", "Sean Gallagher"       , "PayPal"                   , ""],
+	["2018-09-21",  100, "RUB", ""                     , "Яндекс.Деньги"            , ""],
 ];
