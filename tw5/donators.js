@@ -84,4 +84,5 @@ window.г_мПожертвования =
 	["2018-08-22",    3, "EUR", "Florian Gernart"      , "PayPal"                   , "This extension is amazing."],
 	["2018-09-01",    1, "USD", "Sean Gallagher"       , "PayPal"                   , ""],
 	["2018-09-21",  100, "RUB", ""                     , "Яндекс.Деньги"            , ""],
+	["2018-10-16",  507, "RUB", "Riley Snoke"          , "PayPal"                   , "Keep Alternate Player for Twitch.tv ALIVE!"],
 ];
