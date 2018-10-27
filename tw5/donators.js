@@ -86,4 +86,5 @@ window.г_мПожертвования =
 	["2018-09-21",  100, "RUB", ""                     , "Яндекс.Деньги"            , ""],
 	["2018-10-16",  507, "RUB", "Riley Snoke"          , "PayPal"                   , "Keep Alternate Player for Twitch.tv ALIVE!"],
 	["2018-10-21",    5, "NZD", "Steven Easton"        , "PayPal"                   , ""],
+	["2018-10-28",   10, "USD", "intrTek Services"     , "PayPal"                   , ""],
 ];
