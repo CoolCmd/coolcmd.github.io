@@ -95,4 +95,5 @@ window.г_мПожертвования =
 	["2018-10-30",    5, "USD", "Michael Renigen"          , "PayPal"                   , "This is great! Thanks for a great plugin!"],
 	["2018-10-30",    3, "EUR", "Imre Kristoffer Eilertsen", "PayPal"                   , "This extension is a really good way to keep my CPU usage low when I use a passive cooler for it; considering how much of a CPU hog Twitch ordinarily is."],
 	["2018-10-30",    1, "AUD", "Dorian Eisman"            , "PayPal"                   , ""],
+	["2018-11-01",  200, "RUB", "Kristoffer Levin Hansen"  , "PayPal"                   , ""],
 ];
