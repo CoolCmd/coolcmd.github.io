@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 body
 {
 	max-width: 70em;
@@ -33,4 +33,13 @@ img
 .тегзакрыть
 {
 	border-radius: 0 40% 40% 0;
+}
+.ключ
+{
+	margin-left: 2.5em;
+}
+.ключ th
+{
+	padding-right: .4em;
+	vertical-align: top;
 }
