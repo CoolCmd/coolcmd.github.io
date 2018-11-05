@@ -96,4 +96,6 @@ window.г_мПожертвования =
 	["2018-10-30",    3, "EUR", "Imre Kristoffer Eilertsen", "PayPal"                   , "This extension is a really good way to keep my CPU usage low when I use a passive cooler for it; considering how much of a CPU hog Twitch ordinarily is."],
 	["2018-10-30",    1, "AUD", "Dorian Eisman"            , "PayPal"                   , ""],
 	["2018-11-01",  200, "RUB", "Kristoffer Levin Hansen"  , "PayPal"                   , ""],
+	["2018-11-03",   20, "EUR", "Rhacco"                   , "PayPal"                   , "Incredible alternate Twitch player, runs so smooth and I love the instant replay function. Wish I had discovered this add-on sooner. As a fellow developer, I really appreciate your work here, keep it up!"],
+	["2018-11-04",   85, "CZK", "Ondrej Lasak"             , "PayPal"                   , ""],
 ];
