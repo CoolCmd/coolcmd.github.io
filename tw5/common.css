@@ -168,6 +168,7 @@ a:hover .флаг
 	background: -o-linear-gradient(top, #fff, #f2f2f2);
 	background: linear-gradient(to bottom, #fff, #f2f2f2);
 	box-shadow: 0 1px 3px #999;
+	transition: box-shadow .3s;
 }
 .ссылкисописанием figure > a:hover
 {
