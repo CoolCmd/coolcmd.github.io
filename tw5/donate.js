@@ -117,10 +117,15 @@ function ЗапретитьИзменениеАдресаСсылок()
 {
 	document.addEventListener('DOMContentLoaded', function()
 	{
+		var лЗапускВоФрейме = window.top !== window;
 		var сузСсылки = document.querySelectorAll('a[data-href]');
 		for (var ы = 0, узСсылка; узСсылка = сузСсылки[ы]; ++ы)
 		{
 			узСсылка.setAttribute('href', узСсылка.getAttribute('data-href'));
+			if (лЗапускВоФрейме)
+			{
+				узСсылка.setAttribute('target', '_blank');
+			}
 		}
 	}, false);
 }
