@@ -99,4 +99,5 @@ window.г_мПожертвования =
 	["2018-11-03",   20, "EUR", "Rhacco"                   , "PayPal"                   , "Incredible alternate Twitch player, runs so smooth and I love the instant replay function. Wish I had discovered this add-on sooner. As a fellow developer, I really appreciate your work here, keep it up!"],
 	["2018-11-04",   85, "CZK", "Ondrej Lasak"             , "PayPal"                   , ""],
 	["2018-11-07",  660, "RUB", "David Wiley"              , "PayPal"                   , ""],
+	["2018-11-08",   57, "RUB", "Belgards misc."           , "PayPal"                   , ""],
 ];
