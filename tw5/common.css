@@ -120,6 +120,10 @@ body
 {
 	margin-left: 6%;
 }
+.сетка2коротопис + .сетка2коротопис a
+{
+	margin-top: 4%;
+}
 .сетка2коротопис img
 {
 	display: block;
