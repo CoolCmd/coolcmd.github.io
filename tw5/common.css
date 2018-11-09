@@ -138,12 +138,11 @@ body
 }
 .флаг
 {
-	border: 1px solid #aaa;
-	box-shadow: 0 .12em .5em #aaa;
+	box-shadow: 0 .14em .4em .07em #aaa;
 }
 a:hover .флаг
 {
-	box-shadow: 0 .12em .5em #777;
+	box-shadow: 0 .14em .8em .07em #999;
 }
 
 .ссылкисописанием
