@@ -100,4 +100,7 @@ window.г_мПожертвования =
 	["2018-11-04",   85, "CZK", "Ondrej Lasak"             , "PayPal"                   , ""],
 	["2018-11-07",  660, "RUB", "David Wiley"              , "PayPal"                   , ""],
 	["2018-11-08",   57, "RUB", "Belgards misc."           , "PayPal"                   , ""],
+	["2018-11-11",  707, "RUB", ""                         , "PayPal"                   , "Thank you for the player. It is so much better than the original one."],
+	["2018-11-11",  627, "RUB", ""                         , "PayPal"                   , "Hope it helps bud! great extension :)"],
+	["2018-11-11",  4.5, "USD", "Aleh Malakhau"            , "PayPal"                   , ""],
 ];
