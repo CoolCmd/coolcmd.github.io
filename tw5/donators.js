@@ -107,4 +107,5 @@ window.г_мПожертвования =
 	["2018-11-14", 1000, "RUB", "mel-off"                  , "WebMoney"                 , "Прекраснейшее расширение, огромное спасибо. Нужно как-то его продвигать среди масс. Возможно договориться со стримерами о рекламе как must have расширения для русского твитча."],
 	["2018-11-19",  946, "RUB", "Alex Stich"               , "PayPal"                   , "Thank you for keeping this extension free and thank you for keeping the interface clean."],
 	["2018-12-25",   10, "GBP", "David Pacey"              , "PayPal"                   , "Happy Christmas"],
+	["2018-12-30",   19, "CAD", "Oleksandr Lutsiv"         , "PayPal"                   , ""],
 ];
