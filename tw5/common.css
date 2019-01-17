@@ -164,7 +164,6 @@ a:hover .флаг
 	height: 5.5em;
 	padding: 1em;
 	vertical-align: middle;
-	/* Стиль формы Яндекс.Деньги */
 	border-radius: .5em;
 	background: -webkit-linear-gradient(top, #fff, #f2f2f2);
 	background: -moz-linear-gradient(top, #fff, #f2f2f2);
@@ -173,7 +172,11 @@ a:hover .флаг
 	box-shadow: 0 1px 3px #999;
 	transition: box-shadow .3s;
 }
-.ссылкисописанием figure > a:hover
+.ссылкисописанием figure > a:not([href])
+{
+	opacity: .5;
+}
+.ссылкисописанием figure > a[href]:hover
 {
 	box-shadow: 0 1px 6px #999;
 }
