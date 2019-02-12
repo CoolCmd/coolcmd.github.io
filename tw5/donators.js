@@ -113,4 +113,5 @@ window.г_мПожертвования =
 	["2019-02-03", 1328, "RUB", "mistermatrix24"           , "PayPal"                   , "Thank you for all the great work you put into this extension! It truly is excellent!"],
 	["2019-02-05",  373, "RUB", "Atte Stolt"               , "PayPal"                   , "Awesome work!"],
 	["2019-02-07",    5, "USD", "Angel Macias"             , "PayPal"                   , "Thanks <3"],
+	["2019-02-11",  4.5, "EUR", "Francesco Barone"         , "PayPal"                   , ""],
 ];
