@@ -116,4 +116,5 @@ window.г_мПожертвования =
 	["2019-02-11",  4.5, "EUR", "Francesco Barone"         , "PayPal"                   , ""],
 	["2019-02-12",  660, "RUB", "Jesse Richmond"           , "PayPal"                   , "Thank you very much for this extension. It's so smooth and makes my twitch experience so much more painless. Definitely worth donating. Cheers."],
 	["2019-02-15",  127, "RUB", "Christopher Martino"      , "PayPal"                   , ""],
+	["2019-02-15",  197, "RUB", "Michael Olsson"           , "PayPal"                   , "Really great Player."],
 ];
