@@ -118,4 +118,7 @@ window.г_мПожертвования =
 	["2019-02-15",  127, "RUB", "Christopher Martino"      , "PayPal"                   , ""],
 	["2019-02-15",  197, "RUB", "Michael Olsson"           , "PayPal"                   , "Really great Player."],
 	["2019-02-27",  0.7, "USD", "Matthew Vincent"          , "PayPal"                   , ""],
+	["2019-03-01",  325, "RUB", "Christopher Jones"        , "PayPal"                   , "This player makes twitch good again thank you so much"],
+	["2019-03-01",  4.5, "USD", "Jerry Qin"                , "PayPal"                   , "Good Player."],
+	["2019-03-02",  291, "RUB", "Roland Maier"             , "PayPal"                   , "Thanks for your work on the extension."],
 ];
