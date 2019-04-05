@@ -149,4 +149,11 @@ window.г_мПожертвования =
 	["2019-03-26",  100, "RUB", ""                         , "Yandex.Money", ""],
 	["2019-03-28",  4.5, "USD", "Endymion Terrell"         , "PayPal"      , "I appreciate your continued support of the extension!"],
 	["2019-03-30",  660, "RUB", "Mr jf Harvey"             , "PayPal"      , ""],
+	["2019-03-31",  9.2, "EUR", ""                         , "PayPal"      , "Thank you!"],
+	["2019-03-31",    5, "EUR", "Sergio Tobal Uriarte"     , "PayPal"      , ""],
+	["2019-03-31",  564, "RUB", "Kevin Weekley"            , "PayPal"      , ""],
+	["2019-04-02",  341, "RUB", "Konstantin Nebel"         , "PayPal"      , ""],
+	["2019-04-03",  469, "RUB", "Richard Eklöw"            , "PayPal"      , ""],
+	["2019-04-04",  4.5, "USD", "Luke Pilon"               , "PayPal"      , ""],
+	["2019-04-04",  235, "RUB", "Joy France"               , "PayPal"      , ""],
 ];
