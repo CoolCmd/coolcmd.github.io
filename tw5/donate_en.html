@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="en_US">
+<html dir="ltr" lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="author" content="CoolCmd">
@@ -11,12 +11,12 @@
 		Особенности работы переводчика сайтов Google Translate:
 		- Он неправильно обрабатывает <q>, поэтому в разметке вместо <q> используем “вот такие кавычки”.
 		- Символ “≈” может ухудшить качество перевода, поэтому меняем его на “=”.
-		- Без <bdi> будут проблемы при переводе на RTL-языки.
+		- Замена <span> на <bdi> помогает избежать проблем при переводе на RTL-языки.
 	-->
 </head>
 <body>
 	<div class="страница">
-		<p>Browser extension <cite><bdi translate="no">Alternate Player for Twitch.tv (Twitch&nbsp;5)</bdi></cite> is developed by <bdi translate="no">Alexander Choporov (CoolCmd)</bdi>, and this takes a lot of free time. The extension is free. If you liked it, then you can thank the developer by donating him some money. Donation will also serve as a great motivation to continue the development of the extension.</p>
+		<p>Browser extension <cite translate="no">Alternate Player for Twitch.tv (Twitch&nbsp;5)</cite> is developed by <bdi translate="no">Alexander Choporov (CoolCmd)</bdi>, and this takes a lot of free time. The extension is free. If you liked it, then you can thank the developer by donating him some money. Donation will also serve as a great motivation to continue the development of the extension.</p>
 		<p>If you have any problems transferring money, click “Feedback” in the player menu.</p>
 		<h3>Select one of the ways to transfer money</h3>
 		<div class="ссылкисописанием">
@@ -25,7 +25,7 @@
 					<img src="/img/tw5/paypal.svg?2" alt="PayPal">
 				</a
 				><figcaption>
-					To minimize PayPal fees, please select <b><bdi translate="no">RUB</bdi></b> (<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_profile-currencies" data-href="https://www.paypal.com/cgi-bin/webscr?cmd=_profile-currencies" target="_blank" rel="noopener" title="See RUB exchange rates"><bdi translate="no">1 USD = 70 RUB</bdi></a>) and select <b>“Paying for a good or service”</b>. PayPal will deduct 5%-20% fees from your donation. Later you will see the amount that developer received (without fees) in the list below on this page.
+					To minimize PayPal fees, please select <b translate="no">RUB</b> (<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_profile-currencies" data-href="https://www.paypal.com/cgi-bin/webscr?cmd=_profile-currencies" target="_blank" rel="noopener" title="See RUB exchange rates" translate="no">1 USD = 70 RUB</a>) and select <b>“Paying for a good or service”</b>. PayPal will deduct 5%-20% fees from your donation. Later you will see the amount that developer received (without fees) in the list below on this page.
 				</figcaption>
 			</figure>
 			<figure>
