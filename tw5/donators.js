@@ -139,7 +139,7 @@ window.г_мПожертвования =
 	["2019-03-19",  258, "RUB", "Matthew Pearson"          , "PayPal"      , ""],
 	["2019-03-19",  0.7, "AUD", "Bryce Pooler"             , "PayPal"      , ""],
 	["2019-03-19",    5, "USD", "David Miranda"            , "PayPal"      , "Thank you for all your hard work!"],
-	["2019-03-19",   10, "RUB", "410011761298889"          , "Yandex.Money", "Дай бог здоровья, спасибо за такое замечательное расширение. Весь админский состав паблика vk.com/a.webm передает привет!"],
+	["2019-03-19",   10, "RUB", "8889"                     , "Yandex.Money", "Дай бог здоровья, спасибо за такое замечательное расширение. Весь админский состав паблика vk.com/a.webm передает привет!"],
 	["2019-03-19",  500, "RUB", "4775"                     , "Yandex.Money", "Спасибо за работу =)"],
 	["2019-03-20", 1328, "RUB", ""                         , "PayPal"      , "Thanks for your amazing extension. Recently switched back to normal twitch player and missed a bunch of stuff immediately."],
 	["2019-03-20",   86, "RUB", "Иванов Семён"             , "PayPal"      , ""],
@@ -156,4 +156,8 @@ window.г_мПожертвования =
 	["2019-04-03",  469, "RUB", "Richard Eklöw"            , "PayPal"      , ""],
 	["2019-04-04",  4.5, "USD", "Luke Pilon"               , "PayPal"      , ""],
 	["2019-04-04",  235, "RUB", "Joy France"               , "PayPal"      , ""],
+	["2019-04-11",  4.5, "CAD", "Joseph Hanlon"            , "PayPal"      , ""],
+	["2019-04-13",  471, "RUB", "Alexander Chesnokov"      , "PayPal"      , ""],
+	["2019-04-16",    9, "RUB", "4604"                     , "Yandex.Money", ""],
+	["2019-04-16",  100, "RUB", "6988"                     , "Yandex.Money", "Тащи дальше)"],
 ];
