@@ -160,4 +160,5 @@ window.г_мПожертвования =
 	["2019-04-13",  471, "RUB", "Alexander Chesnokov"      , "PayPal"      , ""],
 	["2019-04-16",    9, "RUB", "4604"                     , "Yandex.Money", ""],
 	["2019-04-16",  100, "RUB", "6988"                     , "Yandex.Money", "Тащи дальше)"],
+	["2019-04-28",  9.4, "GBP", "WDITTW"                   , "PayPal"      , "Thank you!"],
 ];
