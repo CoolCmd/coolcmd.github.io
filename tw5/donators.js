@@ -162,4 +162,6 @@ window.г_мПожертвования =
 	["2019-04-16",  100, "RUB", "6988"                     , "Yandex.Money", "Тащи дальше)"],
 	["2019-04-28",  9.4, "GBP", "WDITTW"                   , "PayPal"      , "Thank you!"],
 	["2019-05-05",  4.5, "USD", "Jesse Smith"              , "PayPal"      , ""],
+	["2019-05-05",   14, "USD", "Vladimirs Silins"         , "PayPal"      , "Great extension!"],
+	["2019-05-06",   14, "USD", "Tyler Lanser"             , "PayPal"      , "For creating the Alternate Player for Twitch, such a great extension that made my experience with smaller streamers so much better"],
 ];
