@@ -168,4 +168,7 @@ window.г_мПожертвования =
 	["2019-05-11",  200, "RUB", "4782"                     , "Yandex.Money", ""],
 	["2019-05-27",   57, "RUB", "Sean Burchett"            , "PayPal"      , ""],
 	["2019-06-07",  660, "RUB", "Renee Brown"              , "PayPal"      , "Great work on the viewer. Your the best!"],
+	["2019-06-10",  469, "RUB", "Marius Tyrhaug"           , "PayPal"      , ""],
+	["2019-06-11", 1139, "RUB", "Karl Olsson"              , "PayPal"      , ""],
+	["2019-06-11",  100, "RUB", "Васильева Анна"           , "PayPal"      , "Спасибо за удобный проигрыватель для Твича"],
 ];
