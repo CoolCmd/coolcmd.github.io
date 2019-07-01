@@ -172,4 +172,7 @@ window.г_мПожертвования =
 	["2019-06-11", 1139, "RUB", "Karl Olsson"              , "PayPal"      , ""],
 	["2019-06-11",  100, "RUB", "Васильева Анна"           , "PayPal"      , "Спасибо за удобный проигрыватель для Твича"],
 	["2019-06-26",   45, "SEK", "Armin Kardar"             , "PayPal"      , ""],
+	["2019-06-28", 2873, "RUB", "Печеный Александр"        , "PayPal"      , ""],
+	["2019-06-28",  4.4, "EUR", "Marcin Kropiwnicki"       , "PayPal"      , ""],
+	["2019-06-28",   10, "EUR", "Gerard Nijenhuis"         , "PayPal"      , "My thanks for your clean and smooth ad free player, and thanks for keeping it up to date. With all the annoying ads these days it's worth the money. Greetings from the Netherlands."],
 ];
