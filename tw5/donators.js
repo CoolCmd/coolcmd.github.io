@@ -176,4 +176,6 @@ window.г_мПожертвования =
 	["2019-06-28",  4.4, "EUR", "Marcin Kropiwnicki"       , "PayPal"      , ""],
 	["2019-06-28",   10, "EUR", "Gerard Nijenhuis"         , "PayPal"      , "My thanks for your clean and smooth ad free player, and thanks for keeping it up to date. With all the annoying ads these days it's worth the money. Greetings from the Netherlands."],
 	["2019-07-11",  323, "RUB", "Rafał Lemiec"             , "PayPal"      , "Good job on the extension, it's way better for playing twitch on mac+firefox combo, than the regular twitch."],
+	["2019-08-01",    0, "RUB", "Joshua Grutsch"           , "PayPal"      , ""],
+	["2019-08-03",  9.3, "USD", "Lala Vaishno De"          , "PayPal"      , "Thanks for the twitch Firefox add on!"],
 ];
