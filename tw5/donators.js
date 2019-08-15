@@ -178,4 +178,5 @@ window.г_мПожертвования =
 	["2019-07-11",  323, "RUB", "Rafał Lemiec"             , "PayPal"      , "Good job on the extension, it's way better for playing twitch on mac+firefox combo, than the regular twitch."],
 	["2019-08-01",    0, "RUB", "Joshua Grutsch"           , "PayPal"      , ""],
 	["2019-08-03",  9.3, "USD", "Lala Vaishno De"          , "PayPal"      , "Thanks for the twitch Firefox add on!"],
+	["2019-08-13",  337, "RUB", "9276"                     , "Yandex.Money", "Thank you"],
 ];
