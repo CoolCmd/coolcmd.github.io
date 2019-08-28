@@ -179,4 +179,5 @@ window.г_мПожертвования =
 	["2019-08-01",    0, "RUB", "Joshua Grutsch"           , "PayPal"      , ""],
 	["2019-08-03",  9.3, "USD", "Lala Vaishno De"          , "PayPal"      , "Thanks for the twitch Firefox add on!"],
 	["2019-08-13",  337, "RUB", "9276"                     , "Yandex.Money", "Thank you"],
+	["2019-08-25",  325, "RUB", "Dan Dixon"                , "PayPal"      , ""],
 ];
