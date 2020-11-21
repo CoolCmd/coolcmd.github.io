@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<g style="transform-origin: 50%">
+		<animateTransform
+			attributeName="transform"
+			type="scale"
+			values="1; 1.11"
+			keyTimes="0; 0.82"
+			dur="1.6s"
+			calcMode="discrete"
+			repeatCount="indefinite"/>
+		<!--
+			Author: Google LLC; https://design.google.com/icons/
+			License: Apache License Version 2.0
+		-->
+		<path fill="#e00000" d="M12 21.477l-1.47-1.338c-5.22-4.734-8.666-7.855-8.666-11.687 0-3.122 2.453-5.575 5.575-5.575 1.763 0 3.456 0.821 4.562 2.118 1.105-1.297 2.797-2.118 4.562-2.118 3.122 0 5.575 2.453 5.575 5.575 0 3.832-3.446 6.953-8.666 11.697l-1.47 1.328z"/>
+	</g>
+</svg>
